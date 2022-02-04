@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @luanateixeira148
-- 👀  I’m interested in Front-end Development
-- 🌱  I’m currently learning JavaScript and React.js
+- 👀  I’m interested in Front-end & Mobile Development
+- 🌱  I’m currently learning React Native
 
 <!---
 luanateixeira148/luanateixeira148 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
